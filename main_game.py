@@ -32,8 +32,6 @@ expolision_anim_count = 0
 
 enemy_list_in_game = []
 
-SPACE_BOMB = pygame.image.load('images/bomb.png').convert_alpha()
-
 PLAYER_IMAGE = pygame.image.load('images/player.jpg').convert()
 PLAYER_SPEED = 5
 PLAYER_X = 350
